@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://skinclinicny.com/</loc>
+    <loc>https://staging.kora-694ff83b-3757-4394-979b-4bcca7b8fb3c.pages.dev</loc>
+    <lastmod>2026-04-01</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://staging.kora-694ff83b-3757-4394-979b-4bcca7b8fb3c.pages.dev/services.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>

@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://skinclinicny.com/sitemap.xml
+Sitemap: https://staging.kora-694ff83b-3757-4394-979b-4bcca7b8fb3c.pages.dev/sitemap.xml
